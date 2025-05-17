@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/VivekSaha/myprofile/static/css/main.603bc816.css",
-    "main.js": "/VivekSaha/myprofile/static/js/main.6a8823ca.js",
-    "index.html": "/VivekSaha/myprofile/index.html",
-    "main.603bc816.css.map": "/VivekSaha/myprofile/static/css/main.603bc816.css.map",
-    "main.6a8823ca.js.map": "/VivekSaha/myprofile/static/js/main.6a8823ca.js.map"
+    "main.css": "/myprofile/static/css/main.603bc816.css",
+    "main.js": "/myprofile/static/js/main.6a8823ca.js",
+    "index.html": "/myprofile/index.html",
+    "main.603bc816.css.map": "/myprofile/static/css/main.603bc816.css.map",
+    "main.6a8823ca.js.map": "/myprofile/static/js/main.6a8823ca.js.map"
   },
   "entrypoints": [
     "static/css/main.603bc816.css",
