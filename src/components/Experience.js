@@ -41,7 +41,7 @@ const Experience = () => {
                 <h4 className="exp-company">
                   GOIGI ITES Private Limited, Durgapur, West Bengal
                 </h4>
-                <h4 className="exp-designation">Web Designer</h4>
+                <h4 className="exp-designation">Web Developer</h4>
                 <p className="exp-detail"></p>
               </div>
             </div>
