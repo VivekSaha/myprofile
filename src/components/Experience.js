@@ -60,7 +60,7 @@ const Experience = () => {
             <div className="col-md-6">
               <div className="exp-column">
                 <p className="exp-date">
-                  08-Nov-2021 <span>to</span> 30-Sep-2024
+                  08-Nov-2021 <span>to</span> 31-Jan-2025
                 </p>
                 <h4 className="exp-company">
                   Langoor Digital PVT LTD, Bengaluru, Karnataka
